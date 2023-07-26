@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Link: https://netflix-clone-murex-theta.vercel.app/auth
+
+OR
+
 First, run the development server:
 
 ```bash
